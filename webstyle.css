@@ -1,0 +1,132 @@
+body {
+    background-color: #bdbdbd;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    color: #343434;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #cd0000;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.logo{
+    text-align: center; 
+    padding: 25px;
+}
+
+.nav-bar{
+    text-align: center;
+    background-color: #343434;
+    padding: 20px;
+}
+
+.nav-bar a{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    color: #bdbdbd;
+    text-decoration: none;                           
+}
+
+.nav-bar a:hover{
+    background-color: #cd0000;
+    color: #bdbdbd;
+}
+
+footer{
+    background-color: #343434;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footerdiv div{
+    display:inline-table;
+    text-align: center;
+    color:#bdbdbd;
+    padding: 25px;
+}
+
+.footerdiv{
+    text-align: center;
+    font-size: large;
+}
+
+.social-media a{
+    color: #bdbdbd;
+    font-weight: bolder;
+}
+
+.journey-button a h2 {
+    border: 5px solid #343434; 
+    padding: 20px; color: #343434; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    margin-left: 25%; 
+    margin-right: 25%;
+}
+
+.journey-button a h2:hover {
+    background-color: #cd0000;
+    color: #bdbdbd;
+    border: 4px solid #cd0000
+}
+
+.attractions-grid {
+    justify-content: center;
+    display: flex;
+}
+
+.attractions-grid a {
+    text-decoration: none;
+    padding: 50px;
+}
+
+.attractions-grid a div {
+    text-align: center;
+}
+
+.attractions-grid a div img{
+    border: 4px solid #cd0000;
+}
+
+.attractions-grid a div h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -3px;
+    color: #cd0000;
+}
+
+.attractions-grid a div p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    margin-top: -20px;
+}
+
+.article p {
+    font-size: x-large;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.article ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: #343434; 
+    font-size: x-large;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.img-container {
+    text-align: center;
+}
+
+.img-container p {
+    font-size: small; 
+    margin-top: -2px;
+}
