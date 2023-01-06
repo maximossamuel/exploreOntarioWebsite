@@ -1,7 +1,7 @@
 # EXPLORE ONTARIO WEBSITE
 
-##AUTHOR
-* Maximos Samuel
+## AUTHOR
+Maximos Samuel
 
 ## Accessing the site
 * As this website is not hosted, the only way to access it is through the HTML files included in the repository
